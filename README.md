@@ -49,6 +49,9 @@ It empowers clinicians, students, and researchers to understand patient risk pro
 ## Folder Structure
 
 ```
+## 📁 Project Structure
+
+```
 heart_disease_app/
 ├── models/
 │   ├── logistic_regression_heart_model.joblib
@@ -60,9 +63,7 @@ heart_disease_app/
 │   └── app.py
 ├── venv/
 └── requirements.txt
-
 ```
-
 ---
 
 ## Quick Start
