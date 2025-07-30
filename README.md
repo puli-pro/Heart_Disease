@@ -49,21 +49,18 @@ It empowers clinicians, students, and researchers to understand patient risk pro
 ## Folder Structure
 
 ```
-Heart_Disease/
-│
-├── data/                 # Raw and cleaned datasets
-├── notebooks/            # Jupyter/Colab notebooks
-├── models/               # Trained model files (optional)
-├── src/                  # Python scripts (preprocessing, training, evaluation)
-│   ├── preprocessing.py
-│   ├── training.py
-│   ├── evaluation.py
-│   └── config.py
-├── outputs/              # Plots, reports, and results
-├── requirements.txt      # Python dependencies
-├── LICENSE
-├── README.md
-└── .gitignore
+heart_disease_app/
+├── models/
+│   ├── logistic_regression_heart_model.joblib
+│   ├── random_forest_heart_model.joblib
+│   └── heart_disease_model.joblib         # Gradient Boosting Model
+├── backend/
+│   └── main.py
+├── frontend/
+│   └── app.py
+├── venv/
+└── requirements.txt
+
 ```
 
 ---
