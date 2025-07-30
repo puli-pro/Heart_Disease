@@ -1,5 +1,3 @@
-Absolutely! Here’s your **complete, clean, copy-paste-ready `README.md`** for **❤️ Heart\_Disease: Machine Learning-Powered Clinical Risk Prediction**, written in the same style as your T20 example:
-
 ---
 
 # ❤️ **Heart\_Disease: Machine Learning-Powered Clinical Risk Prediction**
